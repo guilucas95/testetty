@@ -1,0 +1,18 @@
+LEIA
+
+
+Tive problemas referentes a infraestrutura e tempo, Criei um serviço RestFull contendo minhas regras de negócio do banco e os métodos a serem consumidos. 
+
+
+Chamei na controller e tive muita dificuldade na modelagem do banco, por falta de tempo mesmo. 
+Outra coisa foi o layout que não tive muito tempo para colocar tudo no padrão MVC, certinho. 
+
+
+Peço desculpa, mas com as provas no final do semestre e o trabalho, foi o que consegui fazer. 
+Gostei de fazer, pois foi a primeira vez que criei um WCF consumindo serviços RestFull. 
+
+Segue em anexo o código. 
+
+Desde já, agradeço a oportunidade. 
+
+
